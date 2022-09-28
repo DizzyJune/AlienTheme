@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "Juneee#1732",
+        "name": "Alien Red",
+        "version": "1.0.2"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -12843762,
+        "background_secondary": -12843762,
+        "accent": -7140063,
+        "mention_highlight": 1284705569,
+        "active_channel": 2140343585
+    },
+    "colors": {
+        "brand_new_560": -7140063,
+        "link": -7140063,
+        "uikit_btn_bg_color_selector_red": -7140063,
+        "uikit_btn_compound_color_selector_dark": -7140063,
+        "uikit_settings_item_text_color_light": -7140063
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
