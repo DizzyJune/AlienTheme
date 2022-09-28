@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Juneee#1732",
         "name": "Alien Red",
-        "version": "1.0.2"
+        "version": "1.0.2",
+        "updater": "https:\/\/raw.githubusercontent.com\/DizzyJune\/AlienTheme\/main\/json\/Alien%20Red.json"
     },
     "background": {},
     "fonts": {},
